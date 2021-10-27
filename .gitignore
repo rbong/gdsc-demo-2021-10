@@ -1,0 +1,16 @@
+# GCP
+*service-key.json
+
+# Terraform
+.terraform
+*.plan
+*_secrets.tfvars
+
+# Node
+node_modules/
+
+# Swagger
+service.json
+
+# Build files
+build/
